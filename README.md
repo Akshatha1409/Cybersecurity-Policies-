@@ -1,2 +1,2 @@
 # Cybersecurity-Policies-
-Project - Writing policies for an imaginary organization
+Project - Writing policies and standards for an imaginary organization
